@@ -220,7 +220,7 @@
     "git-precommit-checks": "3.0.0",
     "graphql": "0.13.2",
     "html-reporter": "1.2.0",
-    "husky": "4.0.2",
+    "husky": "4.2.4",
     "iltorb": "2.4.4",
     "jsdom": "13.2.0",
     "lerna": "3.20.2",
