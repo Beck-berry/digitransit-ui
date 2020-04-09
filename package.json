@@ -161,7 +161,7 @@
     "react-click-outside": "3.0.1",
     "react-cookie": "1.0.5",
     "react-dom": "16.8.6",
-    "react-helmet": "5.2.0",
+    "react-helmet": "6.0.0",
     "react-intl": "2.8.0",
     "react-leaflet": "2.6.1",
     "react-motion": "0.5.2",
