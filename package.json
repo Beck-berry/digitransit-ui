@@ -219,7 +219,7 @@
     "gemini-browserstack": "1.1.0",
     "git-precommit-checks": "3.0.0",
     "graphql": "0.13.2",
-    "html-reporter": "1.2.0",
+    "html-reporter": "5.15.3",
     "husky": "4.0.2",
     "iltorb": "2.4.4",
     "jsdom": "13.2.0",
